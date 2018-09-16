@@ -12,7 +12,7 @@
    inkscape:export-ydpi="300"
    inkscape:export-xdpi="300"
    inkscape:export-filename="/Users/irk/projects/erica-steenbergen/queen-4.png"
-   sodipodi:docname="queen-5b.svg"
+   sodipodi:docname="5b-geometric.svg"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    id="svg8"
    version="1.1"
@@ -38,9 +38,9 @@
      showgrid="true"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="264.22078"
-     inkscape:cx="158.26875"
-     inkscape:zoom="1.4"
+     inkscape:cy="449.69401"
+     inkscape:cx="65.104662"
+     inkscape:zoom="2.8"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -100,7 +100,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -113,7 +113,7 @@
        sodipodi:nodetypes="cccccccc"
        inkscape:connector-curvature="0"
        id="path2071-5-8-8"
-       d="M 23.580473,230.32499 C 14.905801,238.88816 9.5250049,250.77999 9.5249999,263.93224 9.5371199,267.9018 10.049668,271.854 11.050488,275.69535 13.290818,274.30547 15.807478,272.75326 18.898588,270.66 L 45.243749,252.81974 C 45.456202,252.28412 45.666064,251.75014 45.877302,251.21519 L 36.5125,230.32499 Z"
+       d="m 29.004431,229.67796 c -8.674672,8.56317 -14.055468,20.455 -14.055473,33.60725 0.01212,3.96956 0.524668,7.92176 1.525488,11.76311 2.24033,-1.38988 4.75699,-2.94209 7.8481,-5.03535 l 26.345161,-17.84026 c 0.212453,-0.53562 0.422315,-1.0696 0.633553,-1.60455 l -9.364802,-20.8902 z"
        style="opacity:1;fill:#cc3c2c;fill-opacity:1;fill-rule:nonzero;stroke:#ffeea8;stroke-width:1.32291663;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="ccccccccsc"
@@ -358,5 +358,23 @@
        id="path8228"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
+    <text
+       transform="scale(0.9907165,1.0093705)"
+       id="text3788-8-3"
+       y="240.09598"
+       x="4.3419962"
+       style="font-style:normal;font-weight:normal;font-size:3.8889811px;line-height:0%;font-family:'Bitstream Vera Sans';letter-spacing:0px;word-spacing:0px;fill:#cc3c2c;fill-opacity:1;stroke:none;stroke-width:0.35277775"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.30261612px;line-height:1.25;font-family:'ATC Rosemary';-inkscape-font-specification:'ATC Rosemary';fill:#cc3c2c;fill-opacity:1;stroke-width:0.35277775"
+         y="240.09598"
+         x="4.3419962"
+         id="tspan3790-6-8"
+         sodipodi:role="line">Q</tspan></text>
+    <path
+       sodipodi:nodetypes="scsscss"
+       d="m 9.396414,246.72657 c -1.2870669,0 -1.4589136,1.43104 -1.4589136,1.43104 0,0 -0.1718455,-1.43104 -1.4589126,-1.43104 -0.9009088,0 -1.7160878,0.64164 -1.7160878,1.85208 0,1.59938 2.6111014,3.20774 3.1750004,5.55625 0.536579,-2.34655 3.1749996,-3.95687 3.1749996,-5.55625 0,-1.21044 -0.815178,-1.85208 -1.716086,-1.85208 z"
+       id="hl-8-3-8-9-1"
+       inkscape:connector-curvature="0"
+       style="fill:#cc3c2c;fill-opacity:1;stroke-width:0.95604694" />
   </g>
 </svg>
